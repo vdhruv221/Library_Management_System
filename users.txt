@@ -1,0 +1,9 @@
+Student|1|Ram|ABC123|Student
+Student|2|Shyam|ABC123|Student
+Student|3|Ghanshyam|ABC123|Student
+Student|4|Dhruv|ABC123|Student
+Student|5|Kartik|ABC123|Student
+Faculty|6|Abhishek|ABC123|Faculty
+Faculty|7|Venkatesh|ABC123|Faculty
+Faculty|8|Shubham|ABC123|Faculty
+Librarian|9|Librarian|admin|Librarian

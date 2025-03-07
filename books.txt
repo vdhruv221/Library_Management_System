@@ -1,0 +1,10 @@
+The Silent Patient|Alex Michaelides|Celadon Books|2019|1000|Available|0|0|-1
+Project Hail Mary|Andy Weir|Ballantine Books|2021|1001|Available|0|0|-1
+The Night Circus|Erin Morgenstern|Doubleday|2011|1002|Available|0|0|-1
+Pride and Prejudice|Jane Austen|T. Egerton|1813|1003|Available|0|0|-1
+Educated|Tara Westover|Random House|2018|1004|Available|0|0|-1
+The Hobbit|J.R.R. Tolkien|George Allen & Unwin|1937|1005|Available|0|0|-1
+The Lord of the Rings|J.R.R. Tolkien|George Allen & Unwin|1954|1006|Available|0|0|-1
+Harry Potter and the Philosopher's Stone|J.K. Rowling|Bloomsbury|1997|1007|Available|0|0|-1
+Klara and the Sun|Kazuo Ishiguro|Knopf|2021|1008|Available|0|0|-1
+The Da Vinci Code|Dan Brown|Doubleday|2003|1009|Available|0|0|-1
